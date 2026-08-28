@@ -1,183 +1,104 @@
 <div align="center">
 
-  <!-- Header Typing Animation -->
-  <a href="https://github.com/PushpeshPant14">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Pushpesh+Pant!;Building+Generative+AI+%26+RAG+Systems;Turning+Ideas+into+Scalable+AI+Products;Python+%7C+LLMs+%7C+Vector+Databases+%7C+Java" alt="Typing SVG" />
-  </a>
+# Pushpesh Pant
+### **AI & Software Engineer | Generative AI • RAG Systems • Full-Stack ML**
 
-  <p align="center">
-    <b>AI / Software Engineer</b> passionate about crafting intelligent <b>Generative AI applications</b>, production-grade <b>RAG architectures</b>, and high-throughput backend pipelines.
-  </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushpesh-pant)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/PushpeshPant14)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/PushpeshPant14)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pushpeshpant19@gmail.com)
 
-  <!-- Connect Badges -->
-  <p align="center">
-    <a href="https://linkedin.com/in/pushpesh-pant" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Pushpesh%20Pant-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://leetcode.com/u/PushpeshPant14" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-PushpeshPant14-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-    <a href="mailto:pushpeshpant19@gmail.com">
-      <img src="https://img.shields.io/badge/Email-pushpeshpant19%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<p align="center">
+  <i>Designing and building scalable AI systems, low-latency LLM pipelines, and production-grade software applications.</i>
+</p>
+
 </div>
 
 ---
 
-### 👨‍💻 Who I Am
+## 📌 Executive Summary
 
-I am a developer who loves building at the sweet spot where **applied machine learning meets real-world software engineering**. Instead of just training models in notebooks, I enjoy turning them into responsive, scalable, and intuitive products that solve tangible problems.
+I am an **AI and Software Engineer** currently pursuing my **Master of Computer Applications (MCA)**. My work centers on the intersection of **applied Generative AI, high-throughput vector retrieval, and scalable backend engineering**. 
 
-```python
-class PushpeshPant:
-    def __init__(self):
-        self.role = "AI & Software Engineer"
-        self.passions = ["Generative AI", "RAG Pipelines", "System Design", "Open Source"]
-        self.current_stack = ["Python", "LangChain", "Groq", "ChromaDB/FAISS", "Docker"]
-        self.fuel = ["Coffee", "Optimizing Vector Lookups", "Exploring New ArXiv Papers"]
-
-    def philosophy(self):
-        return "Build fast, evaluate rigorously, and engineer solutions that provide real utility."
-```
+Rather than treating AI models as black boxes, I focus on building complete, deterministic, and optimized architectures—ranging from **dual-execution fallback pipelines** and **4-bit quantized edge inference** to **low-latency RAG systems**.
 
 ---
 
-### ⚡ What I'm Up To
+## 🎯 Core Technical Focus
 
-- 🔭 **Currently Building:** High-speed semantic search & ranking systems, agentic workflow prototypes, and multi-modal assistants.
-- 🧠 **Obsessed With:** 
-  - **Retrieval-Augmented Generation (RAG)**: Chunking strategies, hybrid search (dense + sparse), and grounded citations.
-  - **Inference Optimization**: 4-bit NF4 Quantization (`BitsAndBytes`), low-latency model serving (`Groq`, `vLLM`), and batch vector operations.
-  - **Tool-Augmented LLMs**: Structured output validation via Pydantic & function-calling workflows.
-- 🌱 **Learning & Exploring:** Agentic architectures (LangGraph), distributed vector indexing, and fine-tuning domain-specific compact SLMs.
-- 💬 **Talk to me about:** Python architecture, NLP pipelines, vector retrieval tradeoffs, and building end-to-end AI tools.
-- ⚡ **Fun Fact:** I can spend hours tuning embedding matrix operations and prompt contracts just to squeeze out extra milliseconds and zero-shot accuracy.
+* **Generative AI & RAG Architectures:** Designing end-to-end Retrieval-Augmented Generation workflows utilizing hybrid retrieval (dense + sparse), multi-turn conversation state, and page-level source attribution.
+* **Inference Optimization & Deployment:** Implementing 4-bit NF4 quantization (`BitsAndBytes`), batch vectorization using NumPy matrix operations, and high-throughput LLM tool-calling (`Groq`, `Gemini API`).
+* **Robust Backend & Schema Engineering:** Guaranteeing structured LLM outputs using strict Pydantic validation, deterministic regex fallback heuristics, and clean MVVM/repository architectural patterns.
 
 ---
 
-### 🧰 Tech Arsenal
+## 🛠️ Technical Arsenal
 
-<div align="center">
-
-| Domain | Technologies & Tools |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> |
-| **Generative AI & LLMs** | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Groq_LPU-F55036?style=flat-square" /> <img src="https://img.shields.io/badge/Gemini_API-8E75C7?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Whisper_ASR-00A67E?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Quantization_(BitsAndBytes)-24292e?style=flat-square" /> |
-| **Vector DBs & Embeddings** | <img src="https://img.shields.io/badge/ChromaDB-black?style=flat-square" /> <img src="https://img.shields.io/badge/FAISS-005571?style=flat-square" /> <img src="https://img.shields.io/badge/Sentence_Transformers-FFA000?style=flat-square" /> |
-| **Machine Learning & Data** | <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" /> |
-| **Frameworks & UI** | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square" /> |
-| **Databases, Cloud & Tools** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> |
+| **Languages** | Python, Java, SQL, C++ |
+| **Generative AI & LLMs** | LangChain, Groq API, Google Gemini API, Hugging Face Transformers, Whisper ASR, Prompt Engineering |
+| **Vector DBs & Embeddings** | ChromaDB, FAISS, Sentence-Transformers (`all-MiniLM-L6-v2`) |
+| **Machine Learning & Data** | Scikit-Learn, TensorFlow, NumPy, Pandas, Matplotlib, Seaborn, Pydantic |
+| **Frameworks & API** | Streamlit, Flask, Gradio, REST APIs |
+| **Databases & Cloud** | MySQL, Firebase (Firestore, Auth), AWS Elastic Beanstalk, Docker, Git |
 
+---
+
+## 🚀 Featured Engineering Projects
+
+### 1. [AI Resume Ranking & ATS Matching System](https://github.com/PushpeshPant14/resume-ranking)
+> **High-throughput candidate evaluation engine featuring structured LLM extraction and vectorized semantic matching.**
+
+* **Dual-Execution Pipeline:** Implemented a resilient parsing architecture combining Groq LLaMA-3.3 structured tool-calling with zero-API regex heuristics for guaranteed schema validation.
+* **Vectorized Throughput (5x–10x Speedup):** Replaced sequential embedding calculations with batch vectorized embeddings (`all-MiniLM-L6-v2`) and NumPy dot-product matrix operations.
+* **Precise Entity Matching:** Engineered a token-boundary regex matching engine with technical synonym matrix mapping (`ML` ↔ `Machine Learning`, `AWS` ↔ `Amazon Web Services`) to eliminate false substring positives.
+* **Stack:** `Python`, `LangChain`, `ChromaDB`, `FAISS`, `Groq API`, `Pydantic`, `Streamlit`
+
+---
+
+### 2. [Multi-PDF Conversational RAG Assistant](https://github.com/PushpeshPant14)
+> **Multi-turn document intelligence platform with source verification and dual-vector storage.**
+
+* **Dual Vector Store Architecture:** Integrated FAISS for low-latency in-memory query retrieval alongside ChromaDB for persistent storage using 3072-dimensional Gemini embeddings.
+* **Grounded Citations:** Implemented chunk-level metadata tracking with real-time typewriter token streaming and expandable citation cards (document name, page number, context slice).
+* **Stack:** `Python`, `LangChain`, `ChromaDB`, `FAISS`, `Gemini API`, `Streamlit`
+
+---
+
+### 3. [MinuteAI — Automated Meeting Minutes System](https://github.com/PushpeshPant14)
+> **Audio-to-intelligence pipeline for long-form meeting transcription and automated agenda extraction.**
+
+* **Audio Processing & ASR:** Built an end-to-end transcription pipeline using `openai/whisper-medium.en` via Hugging Face.
+* **Edge & GPU Optimization:** Deployed `meta-llama/Llama-3.2-3B-Instruct` with **4-bit NF4 quantization** via `BitsAndBytesConfig`, significantly reducing memory footprint for rapid inference on consumer GPUs.
+* **Structured Output:** Engineered deterministic prompt workflows to extract structured discussion notes, decisions, and assignable action items.
+* **Stack:** `Python`, `Transformers`, `Whisper`, `LLaMA-3.2`, `BitsAndBytes`, `PyTorch`
+
+---
+
+### 4. [CampusCare — Campus Incident Management](https://github.com/PushpeshPant14)
+> **Production Android application for real-time issue reporting, image evidence verification, and resolution workflows.**
+
+* **Clean Architecture:** Built using Android **MVVM + Repository pattern** with ViewBinding for separation of concerns and maintainability.
+* **Real-time Synchronization:** Integrated Firebase Firestore for live status feeds and `FileProvider` for secure on-device camera evidence capture.
+* **Stack:** `Java`, `Android SDK`, `Firebase (Auth, Firestore)`, `MVVM`
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PushpeshPant14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pushpesh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushpeshPant14&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
-### 🚀 Highlighted Work & Projects
+## 📬 Contact & Collaboration
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎯 <a href="https://github.com/PushpeshPant14/resume-ranking">AI Resume Ranking & ATS Engine</a></h4>
-      <p>A smart recruiter system engineered with a dual-execution pipeline (Groq Llama-3.3 tool-calling + regex heuristic fallback) to structure messy resumes and rank candidates at lightning speed.</p>
-      <ul>
-        <li>⚡ <b>10x faster matching:</b> Vectorized batch embeddings with NumPy dot-product operations.</li>
-        <li>🔍 <b>Zero false positives:</b> Word-boundary token matching with a technical synonym matrix.</li>
-      </ul>
-      <p align="right"><code>Python</code> • <code>Groq</code> • <code>FAISS</code> • <code>ChromaDB</code> • <code>Streamlit</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📚 <a href="https://github.com/PushpeshPant14">Multi-PDF Conversational RAG</a></h4>
-      <p>A document intelligence platform enabling interactive, multi-turn conversations across multiple PDF documents with verifiable source citations.</p>
-      <ul>
-        <li>🧠 <b>Dual vector store:</b> In-memory FAISS for rapid lookup + persistent ChromaDB with Gemini embeddings.</li>
-        <li>💬 <b>Interactive UX:</b> Real-time typewriter token streaming and expandable page-level citation cards.</li>
-      </ul>
-      <p align="right"><code>Python</code> • <code>LangChain</code> • <code>Gemini API</code> • <code>FAISS</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎙️ <a href="https://github.com/PushpeshPant14">MinuteAI — Automated Meeting Minutes</a></h4>
-      <p>An end-to-end audio processing pipeline that converts long-form meeting audio into accurate transcripts and extracts structured action items and summaries.</p>
-      <ul>
-        <li>⚡ <b>Edge efficiency:</b> 4-bit NF4 Quantization via <code>BitsAndBytes</code> for rapid T4 GPU/edge inference.</li>
-        <li>📝 <b>Structured extraction:</b> Automated agenda, key decisions, and action-item workflows.</li>
-      </ul>
-      <p align="right"><code>Transformers</code> • <code>Whisper</code> • <code>LLaMA-3.2</code> • <code>PyTorch</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📱 <a href="https://github.com/PushpeshPant14">CampusCare — Incident Management</a></h4>
-      <p>A real-time mobile application for student complaint tracking, live resolution feeds, and evidence verification.</p>
-      <ul>
-        <li>🏗️ <b>Architecture:</b> Built with MVVM + Repository pattern with ViewBinding.</li>
-        <li>🔥 <b>Cloud Sync:</b> Live Firestore event streams and camera evidence via FileProvider.</li>
-      </ul>
-      <p align="right"><code>Java</code> • <code>Android SDK</code> • <code>Firebase</code> • <code>MVVM</code></p>
-    </td>
-  </tr>
-</table>
+I am always interested in discussing software engineering opportunities, Generative AI research, and high-impact technical collaborations.
 
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PushpeshPant14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Pushpesh's GitHub Stats" />
-      </td>
-      <td>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushpeshPant14&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PushpeshPant14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🤝 Let's Collaborate!
-
-Whether you want to brainstorm an AI product, collaborate on open-source projects, discuss RAG architectures, or just talk tech — my inbox is always open!
-
-<div align="center">
-  <a href="https://linkedin.com/in/pushpesh-pant" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:pushpeshpant19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/PushpeshPant14" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <i>"Simplicity is prerequisite for reliability."</i> — Edsger W. Dijkstra
-</div>
-
-
-<!--
-**PushpeshPant14/PushpeshPant14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Email:** [pushpeshpant19@gmail.com](mailto:pushpeshpant19@gmail.com)
+* **LinkedIn:** [linkedin.com/in/pushpesh-pant](https://linkedin.com/in/pushpesh-pant)
+* **GitHub:** [github.com/PushpeshPant14](https://github.com/PushpeshPant14)
+* **LeetCode:** [leetcode.com/u/PushpeshPant14](https://leetcode.com/u/PushpeshPant14)
