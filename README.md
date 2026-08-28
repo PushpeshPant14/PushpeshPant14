@@ -3,9 +3,9 @@
 # Pushpesh Pant
 ### **AI & Software Engineer | Generative AI • RAG Systems • Full-Stack ML**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushpesh-pant)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushpesh-pant14)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/PushpeshPant14)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/PushpeshPant14)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/PushpeshPant19)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pushpeshpant19@gmail.com)
 
 <p align="center">
@@ -99,6 +99,6 @@ Rather than treating AI models as black boxes, I focus on building complete, det
 I am always interested in discussing software engineering opportunities, Generative AI research, and high-impact technical collaborations.
 
 * **Email:** [pushpeshpant19@gmail.com](mailto:pushpeshpant19@gmail.com)
-* **LinkedIn:** [linkedin.com/in/pushpesh-pant](https://linkedin.com/in/pushpesh-pant)
+* **LinkedIn:** [linkedin.com/in/pushpesh-pant](https://linkedin.com/in/pushpesh-pant14)
 * **GitHub:** [github.com/PushpeshPant14](https://github.com/PushpeshPant14)
-* **LeetCode:** [leetcode.com/u/PushpeshPant14](https://leetcode.com/u/PushpeshPant14)
+* **LeetCode:** [leetcode.com/u/PushpeshPant14](https://leetcode.com/u/PushpeshPant19)
